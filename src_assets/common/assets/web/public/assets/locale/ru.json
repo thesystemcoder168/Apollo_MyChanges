@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "Активировать экран автоматически",
     "dd_config_ensure_only_display": "Отключить другие дисплеи и активировать только указанный дисплей",
     "dd_config_ensure_primary": "Активировать экран автоматически и сделать его основным дисплеем",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Конфигурация устройства",
     "dd_config_revert_delay": "Задержка отката конфигурации",
     "dd_config_revert_delay_desc": "Дополнительная задержка в миллисекундах перед откатом конфигурации приложения или последней сессии прервана. Главная цель - обеспечить более плавный переход при быстром переключении между приложениями.",
