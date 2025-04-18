@@ -1002,6 +1002,10 @@ editing the `conf` file in a text editor. Use the examples as reference.
         <td>Activate the display if it's currently inactive and make it primary.</td>
     </tr>
     <tr>
+        <td>ensure_isolated_primary</td>
+        <td>Activate the display if it's currently inactive and make it an isolated primary display.</td>
+    </tr>
+    <tr>
         <td>ensure_only_display</td>
         <td>Activate the display if it's currently inactive and disable all others.</td>
     </tr>
