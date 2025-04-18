@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "Ekranı otomatik olarak etkinleştirin",
     "dd_config_ensure_only_display": "Diğer ekranları devre dışı bırakma ve yalnızca belirtilen ekranı etkinleştirme",
     "dd_config_ensure_primary": "Ekranı otomatik olarak etkinleştirin ve birincil ekran haline getirin",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Cihaz yapılandırması",
     "dd_config_revert_delay": "Yapılandırma geri dönüş gecikmesi",
     "dd_config_revert_delay_desc": "Uygulama kapatıldığında veya son oturum sonlandırıldığında yapılandırmaya geri dönmeden önce beklemek için milisaniye cinsinden ek gecikme. Ana amaç, uygulamalar arasında hızlı geçiş yaparken daha yumuşak bir geçiş sağlamaktır.",
