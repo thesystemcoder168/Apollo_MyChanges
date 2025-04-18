@@ -76,6 +76,7 @@ INSTANTIATE_TEST_SUITE_P(
     std::make_pair(config_option_e::verify_only, device_prep_t::VerifyOnly),
     std::make_pair(config_option_e::ensure_active, device_prep_t::EnsureActive),
     std::make_pair(config_option_e::ensure_primary, device_prep_t::EnsurePrimary),
+    std::make_pair(config_option_e::ensure_isolated_primary, device_prep_t::EnsureIsolatedPrimary),
     std::make_pair(config_option_e::ensure_only_display, device_prep_t::EnsureOnlyDisplay)
   )
 );
