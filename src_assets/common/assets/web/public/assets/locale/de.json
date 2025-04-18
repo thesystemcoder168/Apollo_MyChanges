@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "Bildschirm automatisch aktivieren",
     "dd_config_ensure_only_display": "Andere Displays deaktivieren und nur die angegebene Anzeige aktivieren",
     "dd_config_ensure_primary": "Bildschirm automatisch aktivieren und es zur primären Anzeige machen",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Gerätekonfiguration",
     "dd_config_revert_delay": "Zurücksetzungsverzögerung konfigurieren",
     "dd_config_revert_delay_desc": "Zusätzliche Verzögerung in Millisekunden, um zu warten, bevor die Konfiguration rückgängig gemacht wird, wenn die App geschlossen oder die letzte Sitzung beendet wurde. Hauptziel ist es, einen reibungsloseren Übergang beim schnellen Wechsel zwischen Apps zu ermöglichen.",
