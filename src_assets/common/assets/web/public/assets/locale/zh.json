@@ -184,6 +184,7 @@
     "dd_config_ensure_active": "自动激活显示",
     "dd_config_ensure_only_display": "停用其他显示器并仅激活指定的显示",
     "dd_config_ensure_primary": "自动激活显示并将其作为主要显示",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "设备配置",
     "dd_config_revert_delay": "配置恢复延迟",
     "dd_config_revert_delay_desc": "在恢复配置前等待更多的以毫秒为单位的延迟，当应用程序已关闭或上次会话终止。 主要目的是在应用程序之间快速切换时提供更顺利的转换。",
