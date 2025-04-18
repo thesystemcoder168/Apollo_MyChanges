@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "ディスプレイを自動的に有効にする",
     "dd_config_ensure_only_display": "他のディスプレイを無効にして指定したディスプレイのみ有効にする",
     "dd_config_ensure_primary": "自動的にディスプレイを有効にし、プライマリディスプレイにする",
+  	"dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "デバイス設定",
     "dd_config_revert_delay": "設定の戻す遅延時間",
     "dd_config_revert_delay_desc": "アプリが閉じられたか、最後のセッションが終了したときに設定を元に戻すまで待機するミリ秒単位の追加の遅延が発生します。 主な目的は、アプリ間の迅速な切り替え時のスムーズな移行を提供することです。",
