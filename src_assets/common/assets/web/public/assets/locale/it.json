@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "Attiva automaticamente il display",
     "dd_config_ensure_only_display": "Disattiva altri display e attiva solo il display specificato",
     "dd_config_ensure_primary": "Attivare automaticamente il display e renderlo uno schermo primario",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Configurazione dispositivo",
     "dd_config_revert_delay": "Ritardo ripristino configurazione",
     "dd_config_revert_delay_desc": "Ulteriori ritardi in millisecondi per attendere prima di ripristinare la configurazione quando l'app è stata chiusa o l'ultima sessione è terminata. Lo scopo principale è quello di fornire una transizione più fluida quando si passa rapidamente tra le applicazioni.",
