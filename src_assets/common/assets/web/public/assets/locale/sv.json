@@ -187,6 +187,7 @@
     "dd_config_ensure_active": "Aktivera skärmen automatiskt",
     "dd_config_ensure_only_display": "Inaktivera andra skärmar och aktivera endast den angivna skärmen",
     "dd_config_ensure_primary": "Aktivera skärmen automatiskt och gör den till en primär skärm",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Enhetskonfiguration",
     "dd_config_revert_delay": "Konfigurera återställ fördröjning",
     "dd_config_revert_delay_desc": "Ytterligare fördröjning i millisekunder för att vänta innan konfiguration återställs när appen har stängts eller den senaste sessionen avslutats. Huvudsyftet är att ge en smidigare övergång när du snabbt växlar mellan appar.",
