@@ -98,6 +98,7 @@ namespace config {
         verify_only,  ///< @seealso{display_device::SingleDisplayConfiguration::DevicePreparation}
         ensure_active,  ///< @seealso{display_device::SingleDisplayConfiguration::DevicePreparation}
         ensure_primary,  ///< @seealso{display_device::SingleDisplayConfiguration::DevicePreparation}
+        ensure_isolated_primary,  ///< @seealso{display_device::SingleDisplayConfiguration::DevicePreparation}
         ensure_only_display  ///< @seealso{display_device::SingleDisplayConfiguration::DevicePreparation}
       };
 
