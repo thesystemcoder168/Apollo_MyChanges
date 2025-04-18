@@ -279,6 +279,8 @@ namespace display_device {
           return EnsureActive;
         case ensure_primary:
           return EnsurePrimary;
+        case ensure_isolated_primary:
+          return EnsureIsolatedPrimary;
         case ensure_only_display:
           return EnsureOnlyDisplay;
         case disabled:
