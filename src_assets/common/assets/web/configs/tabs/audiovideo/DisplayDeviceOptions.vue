@@ -74,6 +74,7 @@ function addRemappingEntry() {
                   <option value="verify_only">{{ $t('config.dd_config_verify_only') }}</option>
                   <option value="ensure_active">{{ $t('config.dd_config_ensure_active') }}</option>
                   <option value="ensure_primary">{{ $t('config.dd_config_ensure_primary') }}</option>
+                  <option value="ensure_isolated_primary">{{ $t('config.dd_config_ensure_isolated_primary') }}</option>
                   <option value="ensure_only_display">{{ $t('config.dd_config_ensure_only_display') }}</option>
                 </select>
               </div>
