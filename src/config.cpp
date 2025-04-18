@@ -365,6 +365,7 @@ namespace config {
       _CONVERT_(verify_only);
       _CONVERT_(ensure_active);
       _CONVERT_(ensure_primary);
+      _CONVERT_(ensure_isolated_primary);
       _CONVERT_(ensure_only_display);
 #undef _CONVERT_
       return video_t::dd_t::config_option_e::disabled;  // Default to this if value is invalid
