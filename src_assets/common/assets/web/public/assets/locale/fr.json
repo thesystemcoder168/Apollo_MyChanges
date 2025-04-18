@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "Activer l'affichage automatiquement",
     "dd_config_ensure_only_display": "Désactiver les autres affichages et n'activer que l'affichage spécifié",
     "dd_config_ensure_primary": "Activer l'affichage automatiquement et en faire un affichage principal",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Configuration de l'appareil",
     "dd_config_revert_delay": "Délai d'annulation de la configuration",
     "dd_config_revert_delay_desc": "Délai supplémentaire en millisecondes à attendre avant de revenir à la configuration lorsque l'application a été fermée ou que la dernière session s'est terminée. L'objectif principal est de fournir une transition plus souple lors d'un basculement rapide entre les applications.",
