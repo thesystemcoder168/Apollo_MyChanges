@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "Automatycznie aktywuj wyświetlanie",
     "dd_config_ensure_only_display": "Dezaktywuj inne wyświetlacze i aktywuj tylko określony wyświetlacz",
     "dd_config_ensure_primary": "Aktywuj ekran automatycznie i spraw, by był głównym wyświetlaczem",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "Konfiguracja urządzenia",
     "dd_config_revert_delay": "Opóźnienie przywrócenia konfiguracji",
     "dd_config_revert_delay_desc": "Dodatkowe opóźnienie w milisekundach, aby poczekać przed przywróceniem konfiguracji po zamknięciu aplikacji lub zakończeniu ostatniej sesji. Głównym celem jest zapewnienie płynniejszego przejścia przy szybkiej zmianie pomiędzy aplikacjami.",
