@@ -155,6 +155,7 @@
     "dd_config_ensure_active": "디스플레이 자동 활성화",
     "dd_config_ensure_only_display": "다른 디스플레이를 비활성화하고 지정된 디스플레이만 활성화하기",
     "dd_config_ensure_primary": "디스플레이를 자동으로 활성화하고 기본 디스플레이로 설정하기",
+    "dd_config_ensure_isolated_primary": "Activate the display automatically and make it an isolated primary display",
     "dd_config_label": "장치 구성",
     "dd_config_revert_delay": "구성 되돌리기 지연",
     "dd_config_revert_delay_desc": "앱이 닫히거나 마지막 세션이 종료된 경우 구성을 되돌리기 전에 대기하는 추가 지연 시간(밀리초)입니다. 주요 목적은 앱 간에 빠르게 전환할 때 보다 원활한 전환을 제공하기 위한 것입니다.",
