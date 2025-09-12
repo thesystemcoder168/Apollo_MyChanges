@@ -1,0 +1,8 @@
+Directions:
+1.	Make sure Apollo is not running. (right click on the Apollo taskbar icon and select QUIT)
+2.	Make a backup of Apollo from the directory where it was installed. Typically, that is c:\program files\apollo
+This is just in case you want to roll back.
+3.	Get the .zip file and extract into a temporary directory.
+4.	Copy the extracted Apollo folder on top of the Apollo folder that one used to install (again typically the C:\program files\apollo). There should be messages about replacing existing files. Select that you want to replace existing files.
+5.	Start-up Apollo via the start menu and it should be on the replaced version.
+NOTE: This .zip  does not have the driver files so that is why one needs to copy over the existing version.
